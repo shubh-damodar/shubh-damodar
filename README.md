@@ -9,19 +9,6 @@ I build cross-platform mobile apps with Flutter and Dart, and have been doing it
 - **[PixelToPDF](https://play.google.com/store/apps/details?id=com.shubh.pixeltopdf)**: a privacy-first Android app that converts, edits, compresses and manages PDFs entirely on-device, with virtualized rendering for large documents
 - Exploring **on-device AI** models and AI-assisted development workflows
 
-## 💼 Experience
-
-| Role | Company | When |
-| --- | --- | --- |
-| Senior Software Engineer | Winjit Technologies | Jan 2025 – present |
-| Flutter Developer | AYOO Care | Jul 2023 – Jan 2025 |
-| Software Development Engineer II | Felicity | Sep 2021 – Jul 2023 |
-| Flutter Developer | Strategy and Business Solutions | Mar 2020 – Sep 2021 |
-| Flutter Developer | The Contrast | May 2019 – Feb 2020 |
-| Web Software Developer | Turnup Idea | Sep 2018 – May 2019 |
-
-🎓 B.Sc. Information Technology, University of Mumbai
-
 ## 🛠️ Tech stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
