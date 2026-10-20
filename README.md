@@ -6,7 +6,7 @@ I build cross-platform mobile apps with Flutter and Dart, and have been doing it
 
 ## 🚀 What I'm working on
 
-- **PixelToPDF**: a privacy-first Android app that converts, edits, compresses and manages PDFs entirely on-device, with virtualized rendering for large documents
+- **[PixelToPDF](https://play.google.com/store/apps/details?id=com.shubh.pixeltopdf)**: a privacy-first Android app that converts, edits, compresses and manages PDFs entirely on-device, with virtualized rendering for large documents
 - Exploring **on-device AI** models and AI-assisted development workflows
 
 ## 🛠️ Tech stack
@@ -32,6 +32,9 @@ I build cross-platform mobile apps with Flutter and Dart, and have been doing it
 Flutter architecture · BLoC vs Riverpod · REST API integration & SSL pinning · real-time features · performance profiling with DevTools · Android/iOS build issues
 
 ## 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-damodar/)
+[![Google Play](https://img.shields.io/badge/PixelToPDF_on_Google_Play-414141?style=flat&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.shubh.pixeltopdf)
 
 ✉️ [damodarshubh@gmail.com](mailto:damodarshubh@gmail.com)
 
