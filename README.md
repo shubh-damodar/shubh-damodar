@@ -2,7 +2,7 @@
 
 **Senior Flutter Developer** · Navi Mumbai, India
 
-I build cross-platform mobile apps with Flutter and Dart, and have been doing it for 6+ years. I care about clean architecture, predictable state management and apps that stay fast as they grow. I've shipped apps in healthcare, mental health, banking and enterprise, and taken them from first commit to the App Store and Google Play.
+I build cross-platform mobile apps with Flutter and Dart, and have been doing it for 7+ years. I care about clean architecture, predictable state management and apps that stay fast as they grow. I've shipped apps in healthcare, mental health, banking and enterprise, and taken them from first commit to the App Store and Google Play.
 
 ## 🚀 What I'm working on
 
