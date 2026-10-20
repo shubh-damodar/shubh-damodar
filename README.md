@@ -1,13 +1,26 @@
 # Hi, I'm Shubham Damodar 👋
 
-**Senior Flutter Developer** · Navi Mumbai, India
+**Senior Software Engineer · Flutter & Dart** · Navi Mumbai, India
 
-I build cross-platform mobile apps with Flutter and Dart, and have been doing it for 7+ years. I care about clean architecture, predictable state management and apps that stay fast as they grow. I've shipped apps in healthcare, mental health, banking and enterprise, and taken them from first commit to the App Store and Google Play.
+I build cross-platform mobile apps with Flutter and Dart, and have been doing it for 7+ years (8 in software overall). I care about clean architecture, predictable state management and apps that stay fast as they grow. I've shipped apps in healthcare, mental health, banking and enterprise, and taken them from first commit to the App Store and Google Play.
 
 ## 🚀 What I'm working on
 
 - **[PixelToPDF](https://play.google.com/store/apps/details?id=com.shubh.pixeltopdf)**: a privacy-first Android app that converts, edits, compresses and manages PDFs entirely on-device, with virtualized rendering for large documents
 - Exploring **on-device AI** models and AI-assisted development workflows
+
+## 💼 Experience
+
+| Role | Company | When |
+| --- | --- | --- |
+| Senior Software Engineer | Winjit Technologies | Jan 2025 – present |
+| Flutter Developer | AYOO Care | Jul 2023 – Jan 2025 |
+| Software Development Engineer II | Felicity | Sep 2021 – Jul 2023 |
+| Flutter Developer | Strategy and Business Solutions | Mar 2020 – Sep 2021 |
+| Flutter Developer | The Contrast | May 2019 – Feb 2020 |
+| Web Software Developer | Turnup Idea | Sep 2018 – May 2019 |
+
+🎓 B.Sc. Information Technology, University of Mumbai
 
 ## 🛠️ Tech stack
 
@@ -16,6 +29,7 @@ I build cross-platform mobile apps with Flutter and Dart, and have been doing it
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
